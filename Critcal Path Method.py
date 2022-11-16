@@ -1,8 +1,5 @@
 '''
-XuDong Wu: 31196462
-YuHao Wang: 31263046
-Chakkwan Cheng: 31502105
-Dian Yu: 31294952
+OrangeSpace0721
 '''
 
 import numpy as np
